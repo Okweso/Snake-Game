@@ -29,9 +29,9 @@ To run the game on your local machine, follow these steps:
 
 ```
 
-git clone https://github.com/yourusername/snake-game.git
+git clone https://github.com/Okweso/Snake-Game.git
 
-cd snake-game1
+cd Snakegame1
 
 ```
 
@@ -46,7 +46,7 @@ pip install pygame
 
 ```
 
-python snake_game.py
+python Snakegame1.py
 
 ```
 
